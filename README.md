@@ -3,11 +3,15 @@
 A data analysis project to evaluate and visualize sales performance using SQL and Power BI.
 
 ![Dashboard Preview](Sales%20DashBoard-1.png)
+
 <br>
+
 ## 🧠 About the Project
 
 This project analyzes sales performance across different products, markets, and timeframes. It uses Power BI for dynamic reporting, helping identify sales trends and business opportunities.
+
 <br>
+
 ## 🎯 Project Objectives
 
 - Develop an insightful and interactive dashboard to evaluate key sales metrics.
@@ -15,7 +19,9 @@ This project analyzes sales performance across different products, markets, and 
   - Year-on-Year revenue growth.
   - How different regions are performing and which are the top ones.
   - The top-performing products and top customers of the company.
+
 <br>
+
 ## 📁 Dataset Information
 
 - **Source**: Provided SQL dump
